@@ -7,5 +7,5 @@ hi user suman?
 how are you
 i am good user
 where are you
-i am in banglore
-working as devops engineer AWS
+
+
